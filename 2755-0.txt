@@ -1,22 +1,21 @@
 ﻿                                 MURAT
 
 
-This eBook is for the use of anyone anywhere at no cost and with almost
-no restrictions whatsoever. You may copy it, give it away or re-use it
-under the terms of the Project Gutenberg License included with this
-eBook or online at http://www.gutenberg.org/license.
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online at
+http://www.gutenberg.org/license. If you are not located in the United
+States, you’ll have to check the laws of the country where you are
+located before using this ebook.
+
 
 
 Title: Murat
-
 Author: Alexandre Dumas, Pere
-
 Release Date: August 15, 2006 [EBook #2755]
-
-Last Updated: 2012-02-20
-
+Reposted: November 28, 2016 [corrections made]
 Language: English
-
 Character set encoding: UTF-8
 
 
@@ -30,13 +29,14 @@ Produced by David Widger.
 
 
 
+
                                 *MURAT*
 
                                   _By_
 
                         *Alexandre Dumas, Pere*
 
-         _From the set of Eight Volumes of "Celebrated Crimes"_
+         _From the set of Eight Volumes of “Celebrated Crimes”_
 
 
                                   1910
@@ -47,7 +47,6 @@ Produced by David Widger.
 CONTENTS
 
 
-    CONTENTS
     *MURAT—1815*
     I—TOULON
     II—CORSICA
@@ -101,24 +100,24 @@ advanced respectfully towards him. The beggar allowed him to approach
 with an air of sombre dignity and without a single movement; then, when
 he was quite near—
 
-"Well, marshal, have, you news for me?" said the beggar.
+“Well, marshal, have, you news for me?” said the beggar.
 
-"Yes, sire," said the other sadly.
+“Yes, sire,” said the other sadly.
 
-"And what are they?"
+“And what are they?”
 
-"Such that I could wish it were anyone but myself to announce them to
-your Majesty——"
+“Such that I could wish it were anyone but myself to announce them to
+your Majesty——”
 
-"So the Emperor refuses my services! He forgets the victories of
-Aboukir, Eylau, and Moscow?"
+“So the Emperor refuses my services! He forgets the victories of
+Aboukir, Eylau, and Moscow?”
 
-"No, sire; but he remembers the treaty of Naples, the taking of Reggio,
-and the declaration of war of the viceroy of Italy."
+“No, sire; but he remembers the treaty of Naples, the taking of Reggio,
+and the declaration of war of the viceroy of Italy.”
 
 The beggar struck his forehead.
 
-"Yes, yes! I daresay he thinks I deserve his reproaches, and yet it
+“Yes, yes! I daresay he thinks I deserve his reproaches, and yet it
 seems to me that he ought to remember that there are two men in me—the
 soldier whom he made his brother, and the brother whom he made a
 king.... Yes, as brother I have treated him ill—very ill, but as king,
@@ -133,26 +132,26 @@ idea of being called traitor and deserter caused me to shed more tears
 than the loss of my throne, or perhaps the death of those I love best,
 will ever wring from me.... And so he will have nothing more to do with
 me? He refuses me as general, captain, private? Then what is left for me
-to do?"
+to do?”
 
-"Sire, your Majesty must leave France immediately."
+“Sire, your Majesty must leave France immediately.”
 
-"And if I don’t obey?"
+“And if I don’t obey?”
 
-"My orders are to arrest you and deliver you up to a court-martial!"
+“My orders are to arrest you and deliver you up to a court-martial!”
 
-"Old comrade, you will not do that?"
+“Old comrade, you will not do that?”
 
-"I shall do it, praying God to strike me dead in the moment I lay hands
-on you!"
+“I shall do it, praying God to strike me dead in the moment I lay hands
+on you!”
 
-"That’s you all over, Brune. You have been able to remain a good, loyal
+“That’s you all over, Brune. You have been able to remain a good, loyal
 fellow. He did not give you a kingdom, he did not encircle your brow
 with a band of iron which men call a crown and which drives one mad; he
 did not place you between your conscience and your family. So I must
 leave France, begin my vagabond life again, and say farewell to Toulon,
-which recalls so many memories to me! See, Brune," continued Murat,
-leaning on the arm of the marshal, "are not the pines yonder as fine as
+which recalls so many memories to me! See, Brune,” continued Murat,
+leaning on the arm of the marshal, “are not the pines yonder as fine as
 any at the Villa Pamfili, the palms as imposing as any at Cairo, the
 mountains as grand as any range in the Tyrol? Look to your left, is not
 Cape Gien something like Castellamare and Sorrento—leaving out Vesuvius?
@@ -160,34 +159,34 @@ And see, Saint-Mandrier at the farthest point of the gulf, is it not
 like my rock of Capri, which Lamarque juggled away so cleverly from that
 idiot of a Sir Hudson Lowe? My God! and I must leave all this! Is there
 no way of remaining on this little corner of French ground—tell me,
-Brune!"
+Brune!”
 
-"You’ll break my heart, sire!" answered the marshal.
+“You’ll break my heart, sire!” answered the marshal.
 
-"Well, we’ll say no more about it. What news?"
+“Well, we’ll say no more about it. What news?”
 
-"The Emperor has left Paris to join the army. They must be fighting
-now."
+“The Emperor has left Paris to join the army. They must be fighting
+now.”
 
-"Fighting now and I not there! Oh, I feel I could have been of use to
+“Fighting now and I not there! Oh, I feel I could have been of use to
 him on this battlefield. How I would have gloried in charging those
 miserable Prussians and dastardly English! Brune, give me a passport,
 I’ll go at full speed, I’ll reach the army, I will make myself known to
-some colonel, I shall say, ’Give me your regiment.’ I’ll charge at its
+some colonel, I shall say, ‘Give me your regiment.’ I’ll charge at its
 head, and if the Emperor does not clasp my hand to-night, I’ll blow my
 brains out, I swear I will. Do what I ask, Brune, and however it may
-end, my eternal gratitude will be yours!"
+end, my eternal gratitude will be yours!”
 
-"I cannot, sire."
+“I cannot, sire.”
 
-"Well, well, say no more about it."
+“Well, well, say no more about it.”
 
-"And your Majesty is going to leave France?"
+“And your Majesty is going to leave France?”
 
-"I don’t know. Obey your orders, marshal, and if you come across me
+“I don’t know. Obey your orders, marshal, and if you come across me
 again, have me arrested. That’s another way of doing something for me.
 Life is a heavy burden nowadays. He who will relieve me of it will be
-welcome.... Good-bye, Brune."
+welcome.... Good-bye, Brune.”
 
 He held out his hand to the marshal, who tried to kiss it; but Murat
 opened his arms, the two old comrades held each other fast for a moment,
@@ -215,18 +214,18 @@ Marouin’s wife and daughter were staying. M. Marouin himself was kept by
 his work at Toulon. After the ordinary greetings, Bonafoux stepped to
 the window, beckoning to Marouin to rejoin him.
 
-"I thought," he said uneasily, "that your house was by the sea."
+“I thought,” he said uneasily, “that your house was by the sea.”
 
-"We are hardly ten minutes’ walk from it."
+“We are hardly ten minutes’ walk from it.”
 
-"But it is not in sight."
+“But it is not in sight.”
 
-"That hill prevents you from seeing it."
+“That hill prevents you from seeing it.”
 
-"May we go for a stroll on the beach before breakfast is served?"
+“May we go for a stroll on the beach before breakfast is served?”
 
-"By all means. Well, your horse is still saddled. I will order mine—I
-will come back for you."
+“By all means. Well, your horse is still saddled. I will order mine—I
+will come back for you.”
 
 Marouin went out. Bonafoux remained at the window, absorbed in his
 thoughts. The ladies of the house, occupied in preparations for the
@@ -248,34 +247,34 @@ and the two friends rode back to Toulon together. After riding along for
 ten minutes, Bonafoux went close to his companion and touched him on the
 thigh—
 
-"Marouin," he said, "I have an important secret to confide to you."
+“Marouin,” he said, “I have an important secret to confide to you.”
 
-"Speak, captain. After a father confessor, you know there is no one so
-discreet as a notary, and after a notary an avocat."
+“Speak, captain. After a father confessor, you know there is no one so
+discreet as a notary, and after a notary an avocat.”
 
-"You can quite understand that I did not come to your country house just
+“You can quite understand that I did not come to your country house just
 for the pleasure of the ride. A more important object, a serious
 responsibility, preoccupied me; I have chosen you out of all my friends,
 believing that you were devoted enough to me to render me a great
-service."
+service.”
 
-"You did well, captain."
+“You did well, captain.”
 
-"Let us go straight to the point, as men who respect and trust each
+“Let us go straight to the point, as men who respect and trust each
 other should do. My uncle, King Joachim, is proscribed, he has taken
 refuge with me; but he cannot remain there, for I am the first person
 they will suspect. Your house is in an isolated position, and
 consequently we could not find a better retreat for him. You must put it
-at our disposal until events enable the king to come to some decision."
+at our disposal until events enable the king to come to some decision.”
 
-"It is at your service," said Marouin.
+“It is at your service,” said Marouin.
 
-"Right. My uncle shall sleep there to-night."
+“Right. My uncle shall sleep there to-night.”
 
-"But at least give me time to make some preparations worthy of my royal
-guest."
+“But at least give me time to make some preparations worthy of my royal
+guest.”
 
-"My poor Marouin, you are giving yourself unnecessary trouble, and
+“My poor Marouin, you are giving yourself unnecessary trouble, and
 making a vexatious delay for us: King Joachim is no longer accustomed to
 palaces and courtiers; he is only too happy nowadays to find a cottage
 with a friend in it; besides, I have let him know about it, so sure was
@@ -283,7 +282,7 @@ I of your answer. He is counting on sleeping at your house to-night, and
 if I try to change his determination now he will see a refusal in what
 is only a postponement, and you will lose all the credit for your
 generous and noble action. There—it is agreed: to-night at ten at the
-Champs de Mars."
+Champs de Mars.”
 
 With these words the captain put his horse to a gallop and disappeared.
 Marouin turned his horse and went back to his country house to give the
@@ -311,14 +310,14 @@ brilliant. Marouin recognised Bonafoux, and went up to him. The captain
 at once took him by the hand and led him to the king, and speaking in
 turn to each of them—
 
-"Sire," he said, "here is the friend. I told you of."
+“Sire,” he said, “here is the friend. I told you of.”
 
 Then turning to Marouin—
 
-"Here," he said, "is the King of Naples, exile and fugitive, whom I
+“Here,” he said, “is the King of Naples, exile and fugitive, whom I
 confide to your care. I do not speak of the possibility that some day he
 may get back his crown, that would deprive you of the credit of your
-fine action.... Now, be his guide—we will follow at a distance. March!"
+fine action.... Now, be his guide—we will follow at a distance. March!”
 
 The king and the lawyer set out at once together. Murat was dressed in a
 blue coat-semi-military, semi-civil, buttoned to the throat; he wore
@@ -377,12 +376,12 @@ in Austria, I think.
 It was finished just as it was time to leave, and on crossing the
 threshold of the hospitable house where he had found refuge he gave it
 to his host, slipped into a volume of a pocket edition of Voltaire.
-Below the story of ’Micromegas’ the king had written: [The volume is
+Below the story of ‘Micromegas’ the king had written: [The volume is
 still in the hands of M. Marouin, at Toulon.]
 
 Reassure yourself, dear Caroline; although unhappy, I am free. I am
 departing, but I do not know whither I am bound. Wherever I may be my
-heart will be with you and my children. "J. M."
+heart will be with you and my children. “J. M.”
 
 Ten minutes later Murat and his host were waiting on the beach at
 Bonette for the boat which was to take them out to the ship.
@@ -455,16 +454,16 @@ new-comer’s expression he saw that some fresh misfortune was in the
 wind. In the first moment’s respite given him by his visitors he went up
 to his brother.
 
-"Well," he said, "I hope the king is on board?"
+“Well,” he said, “I hope the king is on board?”
 
-"The king is fifty yards away, hidden in the outhouse."
+“The king is fifty yards away, hidden in the outhouse.”
 
-"Why did he come back?"
+“Why did he come back?”
 
-"The fisherman pretended he was afraid of a sudden squall, and refused
-to take him off to the brig."
+“The fisherman pretended he was afraid of a sudden squall, and refused
+to take him off to the brig.”
 
-"The scoundrel!"
+“The scoundrel!”
 
 The soldiers came in again.
 
@@ -491,7 +490,7 @@ recognised the white sails of his vessel. The last gradually vanished,
 the sea was revealed in all its immensity, it was deserted. Not daring
 to delay any longer, the ship had sailed away in the night.
 
-"So," said the king, "the die is cast. I will go to Corsica."
+“So,” said the king, “the die is cast. I will go to Corsica.”
 
 The same day Marshal Brune was assassinated at Avignon.
 
@@ -548,54 +547,54 @@ from the beach; two men dashed into the water and reached the beach,
 while a third remained crouching in the stern-sheets wrapped in his
 boat-cloak.
 
-"Well, my good friends," said the king, going towards Blancard and
-Langlade until he felt the waves wet his feet "the moment is come, is it
-not? The wind is favourable, the sea calm, we must get to sea."
+“Well, my good friends,” said the king, going towards Blancard and
+Langlade until he felt the waves wet his feet “the moment is come, is it
+not? The wind is favourable, the sea calm, we must get to sea.”
 
-"Yes," answered Langlade, "yes, we must start; and yet perhaps it would
-be wiser to wait till to-morrow."
+“Yes,” answered Langlade, “yes, we must start; and yet perhaps it would
+be wiser to wait till to-morrow.”
 
-"Why?" asked Murat.
+“Why?” asked Murat.
 
 Langlade did not answer, but turning towards the west, he raised his
 hand, and according to the habit of sailors, he whistled to call the
 wind.
 
-"That’s no good," said Donadieu, who had remained in the boat. "Here are
+“That’s no good,” said Donadieu, who had remained in the boat. “Here are
 the first gusts; you will have more than you know what to do with in a
 minute.... Take care, Langlade, take care! Sometimes in calling the wind
-you wake up a storm."
+you wake up a storm.”
 
 Murat started, for he thought that this warning which rose from the sea
 had been given him by the spirit of the waters; but the impression was a
 passing one, and he recovered himself in a moment.
 
-"All the better," he said; "the more wind we have, the faster we shall
-go."
+“All the better,” he said; “the more wind we have, the faster we shall
+go.”
 
-"Yes," answered Langlade, "but God knows where it will take us if it
-goes on shifting like this."
+“Yes,” answered Langlade, “but God knows where it will take us if it
+goes on shifting like this.”
 
-"Don’t start to-night, sire," said Blancard, adding his voice to those
+“Don’t start to-night, sire,” said Blancard, adding his voice to those
 of his two companions.
 
-"But why not?"
+“But why not?”
 
-"You see that bank of black cloud there, don’t you? Well, at sunset it
+“You see that bank of black cloud there, don’t you? Well, at sunset it
 was hardly visible, now it covers a good part of the sky, in an hour
-there won’t be a star to be seen."
+there won’t be a star to be seen.”
 
-"Are you afraid?" asked Murat.
+“Are you afraid?” asked Murat.
 
-"Afraid!" answered Langlade. "Of what? Of the storm? I might as well ask
+“Afraid!” answered Langlade. “Of what? Of the storm? I might as well ask
 if your Majesty is afraid of a cannon-ball. We have demurred solely on
 your account, sire; do you think seadogs like ourselves would delay on
-account of the storm?"
+account of the storm?”
 
-"Then let us go!" cried Murat, with a sigh.
+“Then let us go!” cried Murat, with a sigh.
 
-"Good-bye, Marouin.... God alone can reward you for what you have done
-for me. I am at your orders, gentlemen."
+“Good-bye, Marouin.... God alone can reward you for what you have done
+for me. I am at your orders, gentlemen.”
 
 At these words the two sailors seized the king end hoisted him on to
 their shoulders, and carried him into the sea; in another moment he was
@@ -606,10 +605,10 @@ pinnace seemed to rouse herself like a horse at touch of the spur; the
 sailors cast a careless glance back, and Murat feeling that they were
 sailing away, turned towards his host and called for a last time—
 
-"You have your route as far as Trieste. Do not forget my wife!...
-Good-bye-good-bye——!"
+“You have your route as far as Trieste. Do not forget my wife!...
+Good-bye-good-bye——!”
 
-"God keep you, sire!" murmured Marouin.
+“God keep you, sire!” murmured Marouin.
 
 And for some time, thanks to the white sail which gleamed through the
 darkness, he could follow with his eyes the boat which was rapidly
@@ -642,55 +641,55 @@ far more tumultuous than that of the waters. Soon the two sailors,
 thinking him asleep, joined the pilot, and sitting down beside the helm,
 they began to consult together.
 
-"You were wrong, Langlade," said Donadieu, "in choosing a craft like
+“You were wrong, Langlade,” said Donadieu, “in choosing a craft like
 this, which is either too small or else too big; in an open boat we can
 never weather a storm, and without oars we can never make any way in a
-calm."
+calm.”
 
-"’Fore God! I had no choice. I was obliged to take what I could get, and
+“‘Fore God! I had no choice. I was obliged to take what I could get, and
 if it had not been the season for tunny-fishing I might not even have
 got this wretched pinnace, or rather I should have had to go into the
 harbour to find it, and they keep such a sharp lookout that I might well
-have gone in without coming out again."
+have gone in without coming out again.”
 
-"At least it is seaworthy," said Blancard.
+“At least it is seaworthy,” said Blancard.
 
-"Pardieu, you know what nails and planks are when they have been soaked
+“Pardieu, you know what nails and planks are when they have been soaked
 in sea-water for ten years. On any ordinary occasion, a man would rather
 not go in her from Marseilles to the Chateau d’If, but on an occasion
-like this one would willingly go round the world in a nutshell."
+like this one would willingly go round the world in a nutshell.”
 
-"Hush!" said Donadieu. The sailors listened; a distant growl was heard,
+“Hush!” said Donadieu. The sailors listened; a distant growl was heard,
 but it was so faint that only the experienced ear of a sailor could have
 distinguished it.
 
-"Yes, yes," said Langlade, "it is a warning for those who have legs or
-wings to regain the homes and nests that they ought never to have left."
+“Yes, yes,” said Langlade, “it is a warning for those who have legs or
+wings to regain the homes and nests that they ought never to have left.”
 
-"Are we far from the islands?" asked Donadieu quickly.
+“Are we far from the islands?” asked Donadieu quickly.
 
-"About a mile off."
+“About a mile off.”
 
-"Steer for them."
+“Steer for them.”
 
-"What for?" asked Murat, looking up.
+“What for?” asked Murat, looking up.
 
-"To put in there, sire, if we can."
+“To put in there, sire, if we can.”
 
-"No, no," cried Murat; "I will not land except in Corsica. I will not
+“No, no,” cried Murat; “I will not land except in Corsica. I will not
 leave France again. Besides, the sea is calm and the wind is getting up
-again—"
+again—”
 
-"Down with the sails!" shouted Donadieu. Instantly Langlade and Blancard
+“Down with the sails!” shouted Donadieu. Instantly Langlade and Blancard
 jumped forward to carry out the order. The sail slid down the mast and
 fell in a heap in the bottom of the boat.
 
-"What are you doing?" cried Murat. "Do you forget that I am king and
-that I command you?"
+“What are you doing?” cried Murat. “Do you forget that I am king and
+that I command you?”
 
-"Sire," said Donadieu, "there is a king more powerful than you—God;
+“Sire,” said Donadieu, “there is a king more powerful than you—God;
 there is a voice which drowns yours—the voice of the tempest: let us
-save your Majesty if possible, and demand nothing more of us."
+save your Majesty if possible, and demand nothing more of us.”
 
 Just then a flash of lightning quivered along the horizon, a clap of
 thunder nearer than the first one was heard, a light foam appeared on
@@ -700,13 +699,13 @@ smiling, threw his hat behind him, shook back his long hair, and
 breathed in the storm like the smell of powder—the soldier was ready for
 the battle.
 
-"Sire," said Donadieu, "you have seen many a battle, but perhaps you
+“Sire,” said Donadieu, “you have seen many a battle, but perhaps you
 have never watched a storm if you are curious about it, cling to the
-mast, for you have a fine opportunity now."
+mast, for you have a fine opportunity now.”
 
-"What ought I to do?" said Murat. "Can I not help you in any way?"
+“What ought I to do?” said Murat. “Can I not help you in any way?”
 
-"No, not just now, sire; later you will be useful at the pumps."
+“No, not just now, sire; later you will be useful at the pumps.”
 
 During this dialogue the storm had drawn near; it rushed on the
 travellers like a war-horse, breathing out fire and wind through its
@@ -718,23 +717,23 @@ necessity for prompt obedience, and presented the poop to the shock of
 wind; then the squall passed, leaving the sea quivering, and everything
 was calm again. The storm took breath.
 
-"Will that gust be all?" asked Murat.
+“Will that gust be all?” asked Murat.
 
-"No, your Majesty, that was the advance-guard only; the body of the army
-will be up directly."
+“No, your Majesty, that was the advance-guard only; the body of the army
+will be up directly.”
 
-"And are you not going to prepare for it?" asked the king gaily.
+“And are you not going to prepare for it?” asked the king gaily.
 
-"What could we do?" said Donadieu. "We have not an inch of canvas to
+“What could we do?” said Donadieu. “We have not an inch of canvas to
 catch the wind, and as long as we do not make too much water, we shall
-float like a cork. Look out-sire!"
+float like a cork. Look out-sire!”
 
 Indeed, a second hurricane was on its way, bringing rain and lightning;
 it was swifter than the first. Donadieu endeavoured to repeat the same
 manoeuvre, but he could not turn before the wind struck the boat, the
 mast bent like a reed; the boat shipped a wave.
 
-"To the pumps!" cried Donadieu. "Sire, now is the moment to help us—"
+“To the pumps!” cried Donadieu. “Sire, now is the moment to help us—”
 
 Blancard, Langlade, and Murat seized their hats and began to bale out
 the boat. The position of the four men was terrible—it lasted three
@@ -775,13 +774,13 @@ the snows of Russia.
 Then one of them got up and went to the other end of the boat, whistling
 between his teeth a Provencal air; then, after examining the sky, the
 waves; and the boat, he went back to his comrades and sat down,
-muttering, "Impossible! Except by a miracle, we shall never make the
-land."
+muttering, “Impossible! Except by a miracle, we shall never make the
+land.”
 
 The night passed through all its phases. At dawn there was a vessel in
 sight.
 
-"A sail!" cried Donadieu,—"a sail!"
+“A sail!” cried Donadieu,—“a sail!”
 
 At this cry the king—awoke; and soon a little trading brig hove in
 sight, going from Corsica to Toulon.
@@ -799,12 +798,12 @@ understood probably by the gesture, for he instantly gave Langlade and
 Blancard the order to make away from the schooner. They obeyed with the
 unquestioning promptitude of sailors; but the king stamped his foot.
 
-"What are you doing, Donadieu? What are you about? Don’t you see that
-she is coming up to us?"
+“What are you doing, Donadieu? What are you about? Don’t you see that
+she is coming up to us?”
 
-"Yes—upon my soul—so she is.... Do as I say, Langlade; ready, Blancard.
+“Yes—upon my soul—so she is.... Do as I say, Langlade; ready, Blancard.
 Yes, she is coming upon us, and perhaps I was too late in seeing this.
-That’s all right—that’s all right: my part now."
+That’s all right—that’s all right: my part now.”
 
 Then he forced over the rudder, giving it so violent a jerk that the
 boat, forced to change her course suddenly, seemed to rear and plunge
@@ -812,14 +811,14 @@ like a horse struggling against the curb; finally she obeyed. A huge
 wave, raised by the giant bearing down on the pinnace, carried it on
 like a leaf, and the brig passed within a few feet of the stern.
 
-"Ah!.... traitor!" cried the king, who had only just begun to realise
+“Ah!.... traitor!” cried the king, who had only just begun to realise
 the intention of the captain. At the same time, he pulled a pistol from
-his belt, crying "Board her! board her!" and tried to fire on the brig,
+his belt, crying “Board her! board her!” and tried to fire on the brig,
 but the powder was wet and would not catch. The king was furious, and
-went on shouting "Board her! board her!"
+went on shouting “Board her! board her!”
 
-"Yes, the wretch, or rather the imbecile," said Donadieu, "he took us
-for pirates, and wanted to sink us—as if we needed him to do that!"
+“Yes, the wretch, or rather the imbecile,” said Donadieu, “he took us
+for pirates, and wanted to sink us—as if we needed him to do that!”
 
 Indeed, a single glance at the boat showed that she was beginning to
 make water.
@@ -828,7 +827,7 @@ The effort—to escape which Donadieu had made had strained the boat
 terribly, and the water was pouring in by a number of leaks between the
 planks; they had to begin again bailing out with their hats, and went on
 at it for ten hours. Then for the second time Donadieu heard the
-consoling cry, "A sail! a sail!" The king and his companions immediately
+consoling cry, “A sail! a sail!” The king and his companions immediately
 left off bailing; they hoisted the sails again, and steered for the
 vessel which was coming towards them, and neglected to fight against the
 water, which was rising rapidly.
@@ -872,7 +871,7 @@ incognito. Then Senator Casabianca, Captain Oletta, a nephew of Prince
 Baciocchi, a staff-paymaster called Boerco, who were themselves fleeing
 from the massacres of the South, were all on board the vessel, and
 improvising a little court, they greeted the king with the title of
-"your Majesty." It had been a sudden embarkation, it brought about a
+“your Majesty.” It had been a sudden embarkation, it brought about a
 swift change: he was no longer Murat the exile; he was Joachim, the King
 of Naples. The exile’s refuge disappeared with the foundered boat; in
 its place Naples and its magnificent gulf appeared on the horizon like a
@@ -884,7 +883,7 @@ Campo Melle, and it was under this name that he landed at Bastia on the
 25th August. But this precaution was useless; three days after his
 arrival, not a soul but knew of his presence in the town.
 
-Crowds gathered at once, and cries of "Long live Joachim!" were heard,
+Crowds gathered at once, and cries of “Long live Joachim!” were heard,
 and the king, fearing to disturb the public peace, left Bastia the same
 evening with his three companions and his Mameluke. Two hours later he
 arrived at Viscovato, and knocked at the door of General Franceschetti,
@@ -900,9 +899,9 @@ grown long, and wearing a soldier’s trousers, boots, and gaiters.
 The general stood still in amazement; Murat fixed his great dark eyes on
 him, and then, folding his arms:—
 
-"Franceschetti," said he, "have you room at your table for your general,
+“Franceschetti,” said he, “have you room at your table for your general,
 who is hungry? Have you a shelter under your roof for your king, who is
-an exile?"
+an exile?”
 
 Franceschetti looked astonished as he recognised Joachim, and could only
 answer him by falling on his knees and kissing his hand. From that
@@ -943,7 +942,7 @@ the road to Ajaccio by Cotone, the mountains of Serra and Bosco, Venaco
 and Vivaro, by the gorges of the forest of Vezzanovo and Bogognone; he
 was received and feted like a king everywhere, and at the gates of the
 towns he was met by deputations who made him speeches and saluted him
-with the title of "Majesty"; at last, on the 23rd September, he arrived
+with the title of “Majesty”; at last, on the 23rd September, he arrived
 at Ajaccio. The whole population awaited him outside the walls, and his
 entry into the town was a triumphal procession; he was taken to the inn
 which had been fixed upon beforehand by the quartermasters. It was
@@ -951,8 +950,8 @@ enough to turn the head of a man less impressionable than Murat; as for
 him, he was intoxicated with it. As he went into the inn he held out his
 hand to Franceschetti.
 
-"You see," he said, "what the Neapolitans will do for me by the way the
-Corsicans receive me."
+“You see,” he said, “what the Neapolitans will do for me by the way the
+Corsicans receive me.”
 
 It was the first mention which had escaped him of his plans for the
 future, and from that very day he began to give orders for his
@@ -975,31 +974,31 @@ went into another room. M. Maceroni introduced himself as charged with
 an official mission, and handed the king the Emperor of Austria’s
 ultimatum. It was couched in the following terms:
 
-    "Monsieur Maceroni is authorised by these presents to announce to
+    “Monsieur Maceroni is authorised by these presents to announce to
      King Joachim that His Majesty the Emperor of Austria will afford him
      shelter in his States on the following terms:—
 
-     "1. The king is to take a private name.  The queen having adopted
+     “1. The king is to take a private name.  The queen having adopted
      that of Lipano, it is proposed that the king should do likewise.
 
-     "2. It will be permitted to the king to choose a town in Bohemia,
+     “2. It will be permitted to the king to choose a town in Bohemia,
      Moravia, or the Tyrol, as a place of residence.  He could even
      inhabit a country house in one of these same provinces without
      inconvenience.
 
-     "3. The king is to give his word of honour to His Imperial and Royal
+     “3. The king is to give his word of honour to His Imperial and Royal
      Majesty that he will never leave the States of Austria without the
-     express-permission of the Emperor, and that he is to live like a
+     express−permission of the Emperor, and that he is to live like a
      private gentleman of distinction, but submitting to the laws in force
      in the States of Austria.
 
-     "In attestation whereof, and to guard against abuse, the undersigned
+     “In attestation whereof, and to guard against abuse, the undersigned
      has received the order of the Emperor to sign the present
      declaration.
 
-     "(Signed) PRINCE OF METTERNICH
+     “(Signed) PRINCE OF METTERNICH
 
-     "PARIS, 1st Sept.  1815."
+     “PARIS, 1st Sept.  1815.”
 
 Murat smiled as he finished reading, then he signed to M. Maceroni to
 follow him:
@@ -1011,7 +1010,7 @@ with its little fleet, and the streets crowded with people, as if it
 were a fete-day.
 
 Hardly had the crowd set eyes on Murat before a universal cry arose,
-"Long live Joachim, brother of Napoleon! Long live the King of Naples!"
+“Long live Joachim, brother of Napoleon! Long live the King of Naples!”
 
 Murat bowed, and the shouts were redoubled, and the garrison band played
 the national airs.
@@ -1023,13 +1022,13 @@ the drawing-room. His staff were there, all in full uniform: one might
 have been at Caserte or at Capo di Monte. At last, after a moment’s
 hesitation, Maceroni approached Murat.
 
-"Sir," he said, "what is my answer to be to His Majesty the Emperor of
-Austria?"
+“Sir,” he said, “what is my answer to be to His Majesty the Emperor of
+Austria?”
 
-"Sir," answered Murat, with the lofty dignity which sat so well on his
-fine face, "tell my brother Francis what you have seen and heard, and
+“Sir,” answered Murat, with the lofty dignity which sat so well on his
+fine face, “tell my brother Francis what you have seen and heard, and
 add that I am setting out this very night to reconquer my kingdom of
-Naples."
+Naples.”
 
 
 
@@ -1155,7 +1154,7 @@ boat with twenty-eight soldiers and three servants, amongst whom was
 Luidgi. As they drew near the shore General Franceschetti made a
 movement as if to land, but Murat stopped him.
 
-"It is for me to land first," he said, and he sprang on shore.
+“It is for me to land first,” he said, and he sprang on shore.
 
 He was dressed in a general’s coat, white breeches and riding-boots, a
 belt carrying two pistols, a gold-embroidered hat with a cockade
@@ -1172,12 +1171,12 @@ he saw amongst the peasants a former sergeant of his who had served in
 his guard at Naples. He walked straight up to him and put his hand on
 the man’s shoulder.
 
-"Tavella," he said, "don’t you recognise me?"
+“Tavella,” he said, “don’t you recognise me?”
 
 But as the man made no answer:
 
-"I am Joachim Murat, I am your king," he said. "Yours be the honour to
-shout ’Long live Joachim!’ first."
+“I am Joachim Murat, I am your king,” he said. “Yours be the honour to
+shout ‘Long live Joachim!’ first.”
 
 Murat’s suite instantly made the air ring with acclamations, but the
 Calabrians remained silent, and not one of his comrades took up the cry
@@ -1185,9 +1184,9 @@ for which the king himself had given the signal; on the contrary, a low
 murmur ran through the crowd. Murat well understood this forerunner of
 the storm.
 
-"Well," he said to Tavella, "if you won’t cry ’Long live Joachim!’ you
+“Well,” he said to Tavella, “if you won’t cry ‘Long live Joachim!’ you
 can at least fetch me a horse, and from sergeant I will promote you to
-be captain."
+be captain.”
 
 Tavella walked away without answering, but instead of carrying out the
 king’s behest, went into his house, and did not appear again.
@@ -1196,22 +1195,22 @@ In the meantime the people were massing together without evincing any of
 the sympathy that the king had hoped for. He felt that he was lost if he
 did not act instantly.
 
-"To Monteleone!" he cried, springing forward towards the road which led
+“To Monteleone!” he cried, springing forward towards the road which led
 to that town.
 
-"To Monteleone!" shouted his officers and men, as they followed him.
+“To Monteleone!” shouted his officers and men, as they followed him.
 
 And the crowd, persistently silent, opened to let them pass.
 
 But they had hardly left the square before a great disturbance broke
 out. A man named Giorgio Pellegrino came out of his house with a gun and
-crossed the square, shouting, "To your arms!"
+crossed the square, shouting, “To your arms!”
 
 He knew that Captain Trenta Capelli commanding the Cosenza garrison was
 just then in Pizzo, and he was going to warn him.
 
-The cry "To arms!" had more effect on the crowd than the cry "Long live
-Joachim!"
+The cry “To arms!” had more effect on the crowd than the cry “Long live
+Joachim!”
 
 Every Calabrian possesses a gun, and each one ran to fetch his, and when
 Trenta Capelli and Giorgio Pellegrino came back to the square they found
@@ -1224,25 +1223,25 @@ waited for them.
 
 Trenta Capelli advanced, sword in hand, towards the king.
 
-"Sir," said the latter, "will you exchange your captain’s epaulettes for
-a general’s? Cry ’Long live Joachim!’ and follow me with these brave
-fellows to Monteleone."
+“Sir,” said the latter, “will you exchange your captain’s epaulettes for
+a general’s? Cry ‘Long live Joachim!’ and follow me with these brave
+fellows to Monteleone.”
 
-"Sire," said Trenta Capelli, "we are the faithful subjects of King
+“Sire,” said Trenta Capelli, “we are the faithful subjects of King
 Ferdinand, and we come to fight you, and not to bear you company. Give
-yourself up, if you would prevent bloodshed."
+yourself up, if you would prevent bloodshed.”
 
 Murat looked at the captain with an expression which it would be
 impossible to describe; then without deigning to answer, he signed to
 Cagelli to move away, while his other hand went to his pistol. Giotgio
 Pellegrino perceived the movement.
 
-"Down, captain, down!" he cried. The captain obeyed. Immediately a
+“Down, captain, down!” he cried. The captain obeyed. Immediately a
 bullet whistled over his head and brushed Murat’s head.
 
-"Fire!" commanded Franceschetti.
+“Fire!” commanded Franceschetti.
 
-"Down with your arms!" cried Murat.
+“Down with your arms!” cried Murat.
 
 Waving his handkerchief in his right hand, he made a step towards the
 peasants, but at the same moment a number of shots were fired, an
@@ -1271,7 +1270,7 @@ The Maltese, Barbara, was going off not only with Murat’s fortune, but
 with his hopes likewise, his salvation, his very life. They could not
 believe in such treachery, and the king took it for some manoeuvre of
 seamanship, and seeing a fishing-boat drawn up on the beach on some
-nets, he called to his two companions, "Launch that boat!"
+nets, he called to his two companions, “Launch that boat!”
 
 They all began to push it down to the sea with the energy of despair,
 the strength of agony.
@@ -1310,8 +1309,8 @@ folded arms. There was an expression of indefinable loftiness in this
 half-naked man whose face was stained with blood and bespattered with
 mud. Mattei bowed before him.
 
-"Commander," said Murat, recognising his rank by his epaulettes, "look
-round you and tell me whether this is a prison for a king."
+“Commander,” said Murat, recognising his rank by his epaulettes, “look
+round you and tell me whether this is a prison for a king.”
 
 Then a strange thing happened: the criminals, who, believing Murat their
 accomplice, had welcomed him with vociferations and laughter, now bent
@@ -1325,11 +1324,11 @@ to a room that he had had prepared for him; but before going out, Murat
 put his hand in his pocket and pulled out a handful of gold and let it
 fall in a shower in the midst of the gaol.
 
-"See," he said, turning towards the prisoners, "it shall not be said
+“See,” he said, turning towards the prisoners, “it shall not be said
 that you have received a visit from a king, prisoner and crownless as he
-is, without having received largesse."
+is, without having received largesse.”
 
-"Long live Joachim!" cried the prisoners.
+“Long live Joachim!” cried the prisoners.
 
 Murat smiled bitterly. Those same words repeated by the same number of
 voices an hour before in the public square, instead of resounding in the
@@ -1343,17 +1342,17 @@ Murat followed Commander Mattei: he led him to a little room which the
 porter had put at his disposal. Mattei was going to retire when Murat
 called him back.
 
-"Commander," he said, "I want a scented bath."
+“Commander,” he said, “I want a scented bath.”
 
-"Sire, it will be difficult to obtain."
+“Sire, it will be difficult to obtain.”
 
-"Here are fifty ducats; let someone buy all the eau de Cologne that can
-be obtained. Ah—and let some tailors be sent to me."
+“Here are fifty ducats; let someone buy all the eau de Cologne that can
+be obtained. Ah—and let some tailors be sent to me.”
 
-"It will be impossible to find anyone here capable of making anything
-but a peasant’s clothes."
+“It will be impossible to find anyone here capable of making anything
+but a peasant’s clothes.”
 
-"Send someone to Monteleone to fetch them from there."
+“Send someone to Monteleone to fetch them from there.”
 
 The commander bowed and went out.
 
@@ -1372,7 +1371,7 @@ stormy weather and lack of provisions had forced him to put into Pizzo.
 All other questions Murat met with a stubborn silence; then at least,
 wearied by his importunity—
 
-"General," he said, "can you lend me some clothes after my bath?"
+“General,” he said, “can you lend me some clothes after my bath?”
 
 The general understood that he could expect no more information, and,
 bowing to the king, he went out. Ten minutes later, a complete uniform
@@ -1401,11 +1400,11 @@ face. At that moment General Nunziante came in and surprised him with
 outstretched arms and face bathed with tears. Murat heard him enter and
 turned round, and seeing the old soldier’s surprise.
 
-"Yes, general," he said, "I weep; I weep for that boy, just twenty-four,
+“Yes, general,” he said, “I weep; I weep for that boy, just twenty-four,
 entrusted to me by his parents, whose death I have brought about. I weep
 for that vast, brilliant future which is buried in an unknown grave, in
 an enemy’s country, on a hostile shore. Oh, Campana! Campana! if ever I
-am king again, I will raise you a royal tomb."
+am king again, I will raise you a royal tomb.”
 
 The general had had dinner served in an adjacent room. Murat followed
 him and sat down to table, but he could not eat. The sight which he had
@@ -1443,16 +1442,16 @@ terms:
 
                              NAPLES, October 9, 1815
 
-    "Ferdinand, by the grace of God, etc .  .  .  .  wills and decrees
+    “Ferdinand, by the grace of God, etc .  .  .  .  wills and decrees
     the following:
 
-    "Art.  1.  General Murat is to be tried by court-martial, the members
+    “Art.  1.  General Murat is to be tried by court−martial, the members
     whereof are to be nominated by our Minister of War.
 
-    "Art.  2.  Only half an hour is to be accorded to the condemned for
+    “Art.  2.  Only half an hour is to be accorded to the condemned for
     the exercises of religion.
 
-    "(Signed) FERDINAND."
+    “(Signed) FERDINAND.”
 
 Another despatch from the minister contained the names of the members of
 the commission. They were:—
@@ -1484,64 +1483,64 @@ On the 13th October, at six o’clock in the morning, Captain Stratti came
 into the king’s prison; he was sound asleep. Stratti was going away
 again, when he stumbled against a chair; the noise awoke Murat.
 
-"What do you want with me, captain?" asked the king.
+“What do you want with me, captain?” asked the king.
 
 Stratti tried to speak, but his voice failed him.
 
-"Ah ha!" said Murat, "you must have had news from Naples."
+“Ah ha!” said Murat, “you must have had news from Naples.”
 
-"Yes, sire," muttered Stratti.
+“Yes, sire,” muttered Stratti.
 
-"What are they?" said Murat.
+“What are they?” said Murat.
 
-"Your trial, sire."
+“Your trial, sire.”
 
-"And by whose order will sentence be pronounced, if you please? Where
+“And by whose order will sentence be pronounced, if you please? Where
 will they find peers to judge me? If they consider me as a king, I must
 have a tribunal of kings; if I am a marshal of France, I must have a
 court of marshals; if I am a general, and that is the least I can be, I
-must have a jury of generals."
+must have a jury of generals.”
 
-"Sire, you are declared a public enemy, and as such you are liable to be
+“Sire, you are declared a public enemy, and as such you are liable to be
 judged by court-martial: that is the law which you instituted yourself
-for rebels."
+for rebels.”
 
-"That law was made for brigands, and not for crowned heads, sir," said
-Murat scornfully. "I am ready; let them butcher me if they like. I did
-not think King Ferdinand capable of such an action."
+“That law was made for brigands, and not for crowned heads, sir,” said
+Murat scornfully. “I am ready; let them butcher me if they like. I did
+not think King Ferdinand capable of such an action.”
 
-"Sire, will you not hear the names of your judges?"
+“Sire, will you not hear the names of your judges?”
 
-"Yes, sir, I will. It must be a curious list. Read it: I am listening."
+“Yes, sir, I will. It must be a curious list. Read it: I am listening.”
 
 Captain Stratti read out the names that we have enumerated. Murat
 listened with a disdainful smile.
 
-"Ah," he said, as the captain finished, "it seems that every precaution
-has been taken."
+“Ah,” he said, as the captain finished, “it seems that every precaution
+has been taken.”
 
-"How, sire?"
+“How, sire?”
 
-"Yes. Don’t you know that all these men, with the exception of Francesco
+“Yes. Don’t you know that all these men, with the exception of Francesco
 Froio, the reporter; owe their promotion to me? They will be afraid of
 being accused of sparing me out of gratitude, and save one voice,
-perhaps, the sentence will be unanimous."
+perhaps, the sentence will be unanimous.”
 
-"Sire, suppose you were to appear before the court, to plead your own
-cause?"
+“Sire, suppose you were to appear before the court, to plead your own
+cause?”
 
-"Silence, sir, silence!" said Murat. "I could, not officially recognise
+“Silence, sir, silence!” said Murat. “I could, not officially recognise
 the judges you have named without tearing too many pages of history.
 Such tribunal is quite incompetent; I should be disgraced if I appeared
 before it. I know I could not save my life, let me at least preserve my
-royal dignity."
+royal dignity.”
 
 At this moment Lieutenant Francesco Froio came in to interrogate the
 prisoner, asking his name, his age, and his nationality. Hearing these
 questions, Murat rose with an expression of sublime dignity.
 
-"I am Joachim Napoleon, King of the Two Sicilies," he answered, "and I
-order you to leave me."
+“I am Joachim Napoleon, King of the Two Sicilies,” he answered, “and I
+order you to leave me.”
 
 The registrar obeyed.
 
@@ -1550,26 +1549,26 @@ write a farewell to his wife and children. The Captain no longer able to
 speak, answered by an affirmative sign; then Joachim sat down to the
 table and wrote this letter:
 
-"DEAR CAROLINE OF MY HEART,—The fatal moment has come: I am to suffer
+“DEAR CAROLINE OF MY HEART,—The fatal moment has come: I am to suffer
 the death penalty. In an hour you will be a widow, our children will be
 fatherless: remember me; never forget my memory. I die innocent; my life
 is taken from me unjustly.
 
-"Good-bye, Achilles good-bye, Laetitia; goodbye, Lucien; good-bye,
+“Good-bye, Achilles good-bye, Laetitia; goodbye, Lucien; good-bye,
 Louise.
 
-"Show yourselves worthy of me; I leave you in a world and in a kingdom
+“Show yourselves worthy of me; I leave you in a world and in a kingdom
 full of my enemies. Show yourselves superior to adversity, and remember
 never to think yourselves better than you are, remembering what you have
 been.
 
-"Farewell. I bless you all. Never curse my memory. Remember that the
+“Farewell. I bless you all. Never curse my memory. Remember that the
 worst pang of my agony is in dying far from my children, far from my
 wife, without a friend to close my eyes. Farewell, my own Caroline.
 Farewell, my children. I send you my blessing, my most tender tears, my
 last kisses. Farewell, farewell. Never forget your unhappy father,
 
-"Pizzo, Oct. 13, 1815"
+“Pizzo, Oct. 13, 1815”
 
 [We can guarantee the authenticity of this letter, having copied it
 ourselves at Pizzo, from the Lavaliere Alcala’s copy of the original]
@@ -1577,23 +1576,23 @@ ourselves at Pizzo, from the Lavaliere Alcala’s copy of the original]
 Then he cut off a lock of his hair and put it in his letter. Just then
 General Nunziante came in; Murat went to him and held out his hand.
 
-"General," he said, "you are a father, you are a husband, one day you
+“General,” he said, “you are a father, you are a husband, one day you
 will know what it is to part from your wife and sons. Swear to me that
-this letter shall be delivered."
+this letter shall be delivered.”
 
-"On my epaulettes," said the general, wiping his eyes. [Madame Murat
+“On my epaulettes,” said the general, wiping his eyes. [Madame Murat
 never received this letter.]
 
-"Come, come, courage, general," said Murat; "we are soldiers, we know
+“Come, come, courage, general,” said Murat; “we are soldiers, we know
 how to face death. One favour—you will let me give the order to fire,
-will you not?"
+will you not?”
 
 The general signed acquiescence: just then the registrar came in with
 the king’s sentence in his hand.
 
 Murat guessed what it was.
 
-"Read, sir," he said coldly; "I am listening."
+“Read, sir,” he said coldly; “I am listening.”
 
 The registrar obeyed. Murat was right.
 
@@ -1601,116 +1600,116 @@ The sentence of death had been carried with only one dissentient voice.
 
 When the reading was finished, the king turned again to Nunziante.
 
-"General," he said, "believe that I distinguish in my mind the
+“General,” he said, “believe that I distinguish in my mind the
 instrument which strikes me and the hand that wields that instrument. I
 should never have thought that Ferdinand would have had me shot like a
 dog; he does not hesitate apparently before such infamy. Very well. We
 will say no more about it. I have challenged my judges, but not my
-executioners. What time have you fixed for my execution?"
+executioners. What time have you fixed for my execution?”
 
-"Will you fix it yourself, sir?" said the general.
+“Will you fix it yourself, sir?” said the general.
 
 Murat pulled out a watch on which there was a portrait of his wife; by
 chance he turned up the portrait, and not the face of the watch; he
 gazed at it tenderly.
 
-"See, general," he said, showing it to Nunziante; "it is a portrait of
-the queen. You know her; is it not like her?"
+“See, general,” he said, showing it to Nunziante; “it is a portrait of
+the queen. You know her; is it not like her?”
 
 The general turned away his head. Murat sighed and put away the watch.
 
-"Well, sire," said the registrar, "what time have you fixed?"
+“Well, sire,” said the registrar, “what time have you fixed?”
 
-"Ah yes," said Murat, smiling, "I forgot why I took out my watch when I
-saw Caroline’s portrait."
+“Ah yes,” said Murat, smiling, “I forgot why I took out my watch when I
+saw Caroline’s portrait.”
 
 Then he looked at his watch again, but this time at its face.
 
-"Well, it shall be at four o’clock, if you like; it is past three
-o’clock. I ask for fifty minutes. Is that too much, sir?"
+“Well, it shall be at four o’clock, if you like; it is past three
+o’clock. I ask for fifty minutes. Is that too much, sir?”
 
 The registrar bowed and went out. The general was about to follow him.
 
-"Shall I never see you again, Nunziante?" said Murat.
+“Shall I never see you again, Nunziante?” said Murat.
 
-"My orders are to be present at your death, sire, but I cannot do it."
+“My orders are to be present at your death, sire, but I cannot do it.”
 
-"Very well, general. I will dispense with your presence at the last
-moment, but I should like to say farewell once more and to embrace you."
+“Very well, general. I will dispense with your presence at the last
+moment, but I should like to say farewell once more and to embrace you.”
 
-"I will be near, sire."
+“I will be near, sire.”
 
-"Thank you. Now leave me alone."
+“Thank you. Now leave me alone.”
 
-"Sire, there are two priests here."
+“Sire, there are two priests here.”
 
 Murat made an impatient movement.
 
-"Will you receive them?" continued the general.
+“Will you receive them?” continued the general.
 
-"Yes; bring them in."
+“Yes; bring them in.”
 
 The general went out. A moment later, two priests appeared in the
 doorway. One of them was called Francesco Pellegrino, uncle of the man
 who had caused the king’s death; the other was Don Antonio Masdea.
 
-"What do you want here?" asked Murat.
+“What do you want here?” asked Murat.
 
-"We come to ask you if you are dying a Christian?"
+“We come to ask you if you are dying a Christian?”
 
-"I am dying as a soldier. Leave me."
+“I am dying as a soldier. Leave me.”
 
 Don Francesco Pellegrino retired. No doubt he felt ill at ease before
 Joachim. But Antonio Masdea remained at the door.
 
-"Did you not hear me?" asked the king.
+“Did you not hear me?” asked the king.
 
-"Yes, indeed," answered the old man; "but permit me, sire, to hope that
+“Yes, indeed,” answered the old man; “but permit me, sire, to hope that
 it was not your last word to me. It is not, the first time that I see
 you or beg something of you. I have already had occasion to ask a favour
-of you."
+of you.”
 
-"What was that?"
+“What was that?”
 
-"When your Majesty came to Pizzo in 1810, I asked you for 25,000 francs
-to enable us to finish our church. Your Majesty sent me 40,000 francs."
+“When your Majesty came to Pizzo in 1810, I asked you for 25,000 francs
+to enable us to finish our church. Your Majesty sent me 40,000 francs.”
 
-"I must have foreseen that I should be buried there," said Murat,
+“I must have foreseen that I should be buried there,” said Murat,
 smiling.
 
-"Ah, sire, I should like to think that you did not refuse my second boon
-any more than my first. Sire, I entreat you on my knees."
+“Ah, sire, I should like to think that you did not refuse my second boon
+any more than my first. Sire, I entreat you on my knees.”
 
 The old man fell at Murat’s feet.
 
-"Die as a Christian!"
+“Die as a Christian!”
 
-"That would give you pleasure, then, would it?" said the king.
+“That would give you pleasure, then, would it?” said the king.
 
-"Sire, I would give the few short days remaining to me if God would
-grant that His Holy Spirit should fall upon you in your last hour."
+“Sire, I would give the few short days remaining to me if God would
+grant that His Holy Spirit should fall upon you in your last hour.”
 
-"Well," said Murat, "hear my confession. I accuse myself of having been
+“Well,” said Murat, “hear my confession. I accuse myself of having been
 disobedient to my parents as a child. Since I reached manhood I have
-done nothing to reproach myself with."
+done nothing to reproach myself with.”
 
-"Sire, will you give me an attestation that you die in the Christian
-faith?"
+“Sire, will you give me an attestation that you die in the Christian
+faith?”
 
-"Certainly," said Murat.
+“Certainly,” said Murat.
 
-And he took a pen and wrote: "I, Joachim Murat, die a Christian,
-believing in the Holy Catholic Church, Apostolic and Roman."
+And he took a pen and wrote: “I, Joachim Murat, die a Christian,
+believing in the Holy Catholic Church, Apostolic and Roman.”
 
 He signed it.
 
-"Now, father," continued the king, "if you have a third favour to ask of
-me, make haste, for in half an hour it will be too late."
+“Now, father,” continued the king, “if you have a third favour to ask of
+me, make haste, for in half an hour it will be too late.”
 
 Indeed, the castle clock was striking half-past three. The priest signed
 that he had finished.
 
-"Then leave me alone," said Murat; and the old man went out.
+“Then leave me alone,” said Murat; and the old man went out.
 
 Murat paced his room for a few moments, then he sat down on his bed and
 let his head fall into his hands. Doubtless, during the quarter of an
@@ -1733,13 +1732,13 @@ Murat went to the door himself and opened it.
 
 General Nunziante was waiting for him.
 
-"Thank you, general," said Murat. "You have kept your word. Kiss me, and
-go at once, if you like."
+“Thank you, general,” said Murat. “You have kept your word. Kiss me, and
+go at once, if you like.”
 
 The general threw himself into the king’s arms, weeping, and utterly
 unable to speak.
 
-"Courage," said Murat. "You see I am calm." It was this very calmness
+“Courage,” said Murat. “You see I am calm.” It was this very calmness
 which broke the general’s heart. He dashed out of the corridor, and left
 the castle, running like a madman.
 
@@ -1761,14 +1760,14 @@ face never changed, he did not move a muscle; only gazing at the
 soldiers with an expression of mingled bitterness and gratitude, he
 said:
 
-"Thank you; my friends. Since sooner or later you will be obliged to aim
+“Thank you; my friends. Since sooner or later you will be obliged to aim
 true, do not prolong my death-agonies. All I ask you is to aim at the
-heart and spare the face. Now——"
+heart and spare the face. Now——”
 
 With the same voice, the same calm, the same expression, he repeated the
 fatal words one after another, without lagging, without hastening, as if
 he were giving an accustomed command; but this time, happier than the
-first, at the word "Fire!" he fell pierced by eight bullets, without a
+first, at the word “Fire!” he fell pierced by eight bullets, without a
 sigh, without a movement, still holding the watch in his left hand.
 
 The soldiers took up the body and laid it on the bed where ten minutes
@@ -1781,7 +1780,7 @@ an order. The commander read it with surprise and disgust, but after
 reading it he led the man to the door where he had been refused
 entrance.
 
-"Pass the Signor Luidgi," he said to the sentinel.
+“Pass the Signor Luidgi,” he said to the sentinel.
 
 Ten minutes had hardly elapsed before he came out again, holding a
 bloodstained handkerchief containing something to which the sentinel
@@ -1806,7 +1805,7 @@ Luidgi died from the effects of poison.
 
 
 
-                                  ————
+                                  ――――
 
 *** END OF THIS PROJECT GUTENBERG EBOOK MURAT ***
 
@@ -1820,21 +1819,22 @@ We will update this book if we find any errors.
 
 This book can be found under: http://www.gutenberg.org/ebooks/2755
 
-Creating the works from public domain print editions means that no one
-owns a United States copyright in these works, so the Foundation (and
-you!) can copy and distribute it in the United States without permission
-and without paying copyright royalties.  Special rules, set forth in the
-General Terms of Use part of this license, apply to copying and
-distributing Project Gutenberg™ electronic works to protect the Project
-Gutenberg™ concept and trademark. Project Gutenberg is a registered
-trademark, and may not be used if you charge for the eBooks, unless you
-receive specific permission. If you do not charge anything for copies of
-this eBook, complying with the rules is very easy. You may use this
-eBook for nearly any purpose such as creation of derivative works,
-reports, performances and research. They may be modified and printed and
-given away – you may do practically _anything_ with public domain
-eBooks.  Redistribution is subject to the trademark license, especially
-commercial redistribution.
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works, so
+the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright royalties.
+Special rules, set forth in the General Terms of Use part of this
+license, apply to copying and distributing Project Gutenberg™ electronic
+works to protect the Project Gutenberg™ concept and trademark. Project
+Gutenberg is a registered trademark, and may not be used if you charge
+for the eBooks, unless you receive specific permission. If you do not
+charge anything for copies of this eBook, complying with the rules is
+very easy. You may use this eBook for nearly any purpose such as
+creation of derivative works, reports, performances and research.  They
+may be modified and printed and given away – you may do practically
+_anything_ in the United States with eBooks not protected by U.S.
+copyright law. Redistribution is subject to the trademark license,
+especially commercial redistribution.
 
 
 
@@ -1880,9 +1880,9 @@ paragraph 1.E below.
 Foundation” or PGLAF), owns a compilation copyright in the collection of
 Project Gutenberg™ electronic works. Nearly all the individual works in
 the collection are in the public domain in the United States. If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you
-from copying, distributing, performing, displaying or creating
+individual work is unprotected by copyright law in the United States and
+you are located in the United States, we do not claim a right to prevent
+you from copying, distributing, performing, displaying or creating
 derivative works based on the work as long as all references to Project
 Gutenberg are removed. Of course, we hope that you will support the
 Project Gutenberg™ mission of promoting free access to electronic works
@@ -1891,6 +1891,7 @@ of this agreement for keeping the Project Gutenberg™ name associated
 with the work. You can easily comply with the terms of this agreement by
 keeping this work in the same format with its attached full Project
 Gutenberg™ License when you share it without charge with others.
+
 
 *1.D.* The copyright laws of the place where you are located also govern
 what you can do with this work. Copyright laws in most countries are in
@@ -1910,20 +1911,25 @@ which the phrase “Project Gutenberg” appears, or with which the phrase
 “Project Gutenberg” is associated) is accessed, displayed, performed,
 viewed, copied or distributed:
 
-    This eBook is for the use of anyone anywhere at no cost and with
+    This eBook is for the use of anyone anywhere in the United
+    States and most other parts of the world at no cost and with
     almost no restrictions whatsoever. You may copy it, give it away
     or re-use it under the terms of the Project Gutenberg License
-    included with this eBook or online at http://www.gutenberg.org
+    included with this eBook or online at http://www.gutenberg.org .
+    If you are not located in the United States, you’ll have to
+    check the laws of the country where you are located before using
+    this ebook.
 
 *1.E.2.* If an individual Project Gutenberg™ electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges. If you are redistributing or providing access to a work with
-the phrase “Project Gutenberg” associated with or appearing on the work,
-you must comply either with the requirements of paragraphs 1.E.1 through
-1.E.7 or obtain permission for the use of the work and the Project
-Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+from texts not protected by U.S. copyright law (does not contain a
+notice indicating that it is posted with permission of the copyright
+holder), the work can be copied and distributed to anyone in the United
+States without paying any fees or charges. If you are redistributing or
+providing access to a work with the phrase “Project Gutenberg”
+associated with or appearing on the work, you must comply either with
+the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission
+for the use of the work and the Project Gutenberg™ trademark as set
+forth in paragraphs 1.E.8 or 1.E.9.
 
 *1.E.3.* If an individual Project Gutenberg™ electronic work is posted
 with the permission of the copyright holder, your use and distribution
@@ -1994,21 +2000,22 @@ that
 *1.E.9.* If you wish to charge a fee or distribute a Project Gutenberg™
 electronic work or group of works on different terms than are set forth
 in this agreement, you must obtain permission in writing from both the
-Project Gutenberg Literary Archive Foundation and Michael Hart, the
-owner of the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3. below.
+Project Gutenberg Literary Archive Foundation and The Project Gutenberg
+Trademark LLC, the owner of the Project Gutenberg™ trademark. Contact
+the Foundation as set forth in Section 3. below.
 
 *1.F.*
 
 *1.F.1.* Project Gutenberg volunteers and employees expend considerable
 effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg™ collection.
-Despite these efforts, Project Gutenberg™ electronic works, and the
-medium on which they may be stored, may contain “Defects,” such as, but
-not limited to, incomplete, inaccurate or corrupt data, transcription
-errors, a copyright or other intellectual property infringement, a
-defective or damaged disk or other medium, a computer virus, or computer
-codes that damage or cannot be read by your equipment.
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by your
+equipment.
 
 *1.F.2.* LIMITED WARRANTY, DISCLAIMER OF DAMAGES – Except for the “Right
 of Replacement or Refund” described in paragraph 1.F.3, the Project
@@ -2039,7 +2046,7 @@ opportunities to fix the problem.
 *1.F.4.* Except for the limited right of replacement or refund set forth
 in paragraph 1.F.3, this work is provided to you ‘AS-IS,’ WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
 
 *1.F.5.* Some states do not allow disclaimers of certain implied
 warranties or the exclusion or limitation of certain types of damages.
@@ -2094,13 +2101,13 @@ http://www.gutenberg.org/fundraising/pglaf . Contributions to the
 Project Gutenberg Literary Archive Foundation are tax deductible to the
 full extent permitted by U.S.  federal laws and your state’s laws.
 
-The Foundation’s principal office is located at 4557 Melan Dr.
-S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations. Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org. Email contact links and up to date contact
-information can be found at the Foundation’s web site and official page
-at http://www.pglaf.org
+The Foundation’s principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its volunteers
+and employees are scattered throughout numerous locations. Its business
+office is located at 809 North 1500 West, Salt Lake City, UT 84116,
+(801) 596-1887, email business@pglaf.org. Email contact links and up to
+date contact information can be found at the Foundation’s web site and
+official page at http://www.pglaf.org
 
 For additional contact information:
 
@@ -2155,9 +2162,9 @@ with anyone. For thirty years, he produced and distributed Project
 Gutenberg™ eBooks with only a loose network of volunteer support.
 
 Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S. unless
-a copyright notice is included. Thus, we do not necessarily keep eBooks
-in compliance with any particular paper edition.
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper edition.
 
 Each eBook is in a subdirectory of the same number as the eBook’s eBook
 number, often in several formats including plain vanilla ASCII,
